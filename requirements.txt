@@ -1,10 +1,7 @@
 streamlit
-librosa
-matplotlib
 numpy
-joblib
+pandas
+scikit-learn
 opencv-python
 deepface
-tensorflow
-keras
-tf-keras
+librosa
