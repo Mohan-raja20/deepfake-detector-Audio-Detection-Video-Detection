@@ -1,0 +1,10 @@
+streamlit
+librosa
+matplotlib
+numpy
+joblib
+opencv-python
+deepface
+tensorflow
+keras
+tf-keras
