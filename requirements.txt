@@ -1,7 +1,9 @@
-streamlit
-numpy
-pandas
-scikit-learn
-opencv-python
-deepface
-librosa
+streamlit==1.32.0
+numpy==1.26.4
+pandas==2.2.1
+scikit-learn==1.4.1
+opencv-python==4.9.0.80
+deepface==0.0.79
+librosa==0.10.1
+matplotlib==3.8.3
+joblib==1.3.2
